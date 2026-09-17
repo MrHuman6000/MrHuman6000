@@ -19,7 +19,7 @@ C++ → OOP → STL → Algorithms → Git/GitHub → CMake
 ## 🧑‍💻 About Me
 
 * 🎓 **Software Engineering student**
-* 🏫 **Chernihiv Polytechnic**
+* 🏫 **I am studying at university**
 * 💻 Main programming language: **C++**
 * 🧠 Currently focused on **STL, algorithms and competitive programming**
 * 🌱 Learning how to write cleaner and more structured code
