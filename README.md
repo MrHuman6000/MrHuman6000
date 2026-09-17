@@ -4,8 +4,6 @@
 
 I'm a **Software Engineering student** from Ukraine, currently focused on **C++ development, algorithms, STL and software engineering fundamentals**.
 
-I enjoy building things, solving programming problems and learning how real software works — from low-level C++ concepts and algorithms to backend development, Linux, databases, AI and game development.
-
 ```text
 C++ → OOP → STL → Algorithms → Git/GitHub → CMake
                          ↓
