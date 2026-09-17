@@ -1,4 +1,4 @@
-# 👋 Hi, I'm March!
+# 👋 Hi, I'm Ihor!
 
 ### 💻 Software Engineering Student | C++ Developer in Progress | Competitive Programming
 
